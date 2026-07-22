@@ -152,9 +152,11 @@ SafeSphere AI is designed with privacy as a core principle.
 
 **RoyalCodeBreakers**
 
-Developed for **SOCF 2.0 Hackathon**
+Developed for **SOCF 2.0 Hackathon** (VIT Bhopal)
 
 ---
+## Owner
+**Himanshu Mishra**
 
 ## 📌 Project Status
 
